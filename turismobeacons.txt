@@ -1,0 +1,13 @@
+integrantes:
+Activos:
+yop
+
+Inactivos:
+Amanqui
+Nicholl
+
+git clone <<url>>
+
+cd (carpeta que hemos creado ) <<nombre>>
+
+agregar archivos del proyecto   >> git add.
